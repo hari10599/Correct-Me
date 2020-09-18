@@ -1,0 +1,5 @@
+ab 1
+aba 2
+abama 5
+abamp 6
+abamps 7
